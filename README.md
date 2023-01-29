@@ -18,3 +18,9 @@ pip install PyQt5
 ## Note
 
 Make sure you have installed the required packages and have the necessary setup before running the project.
+
+## Importent Note
+This is only a demo and can only provide instructions for creating a student account. If asked to perform any other tasks, the response may be "Out of scope." Please also note that the understanding capability (using wit.ai) is not fully implemented, so there may be instances where the bot does not comprehend the question.
+
+
+
